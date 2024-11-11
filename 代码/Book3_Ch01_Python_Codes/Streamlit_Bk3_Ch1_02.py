@@ -14,8 +14,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 with st.sidebar:
-    
-
     num_digits = st.slider('Number of decimal digits:',
                            min_value = 10000, 
                            max_value = 100000,

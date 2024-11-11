@@ -12,7 +12,7 @@ import matplotlib.pyplot as plt
 from matplotlib.patches import RegularPolygon, Circle
 import numpy as np
 
-for num_vertices in [3,4,5,6,7,8]:
+for num_vertices in [3,4,5,6,7,8,17]:
     
     fig, ax = plt.subplots()
     ax.set_aspect('equal')
